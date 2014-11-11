@@ -1,5 +1,5 @@
 //document.writeln("Do you like coffee?");
-// eu estou aqui!
+
 
 var num = 10;
 
